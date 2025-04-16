@@ -1,2 +1,3 @@
 hi
 hello
+added some text in git bash
