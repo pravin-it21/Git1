@@ -1,3 +1,4 @@
 hi
 hello
 added some text in git bash
+added sometghing from new branch
